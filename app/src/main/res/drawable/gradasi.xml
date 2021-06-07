@@ -1,0 +1,10 @@
+//06062021-10118364-Andika Rahma Fauziah-IF09
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="@color/VB3"
+        android:centerColor="@color/bluesky1"
+        android:endColor="@color/VB1"
+        android:angle="270"
+        />
+</shape>
